@@ -1,1 +1,3 @@
 # Smartbilboards
+
+# detaylar ileride eklenecektir.
